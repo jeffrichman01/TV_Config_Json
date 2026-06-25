@@ -1,6 +1,6 @@
 {
   "check_time": "2026年6月25日",
-  "sites_number": 16,
+  "sites_number": 15,
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
@@ -15,10 +15,6 @@
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
-    },
-    "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
