@@ -1,10 +1,10 @@
 ##  MoonTV/LunaTV配置
 订阅使用：复制下面链接  
 
-👉 原始版本
+👉 原始版本，仅清理无效资源
 
 ```bash
-
+https://raw.githubusercontent.com/jeffrichman01/TV_Config_Json/refs/heads/main/yuanshi/config.json
 ```
 --- 
 
